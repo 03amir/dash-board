@@ -1,2 +1,3 @@
-# -Board
+# -Board for employee management
+
 
